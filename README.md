@@ -37,7 +37,7 @@ In the order of frequency (keep adding) :
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
 ### 👀 GITHUB CONTRIBUTE 👀
-![trophy](https://github-profile-trophy.vercel.app/?username=Nachtstolz&colum=3&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Nachtstolz&column=3&margin-w=15&margin-h=15)
 
 ![Nachtstolz's github stats](https://github-readme-stats.vercel.app/api?username=Nachtstolz&show_icons=true&theme=buefy)
 
