@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=CSH's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=CSH's%20Github&fontSize=80)
 
 ## 🌹 INTRODUCE MYSELF 🌹
 #### Hi, there!👋 I'm CSH with nickname 'Nachtstolz'.✨
