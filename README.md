@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 #### 👉 You can contact 👈
 
 <a href="https://use-full.tistory.com/"><img src="https://img.shields.io/badge/Blog-184D66?style=flat-square&logo=Vector%20Logo%20Zone&logoColor=white"/></a>
-<a href="https://www.instagram.com/nachtstolz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto: sayong4424@gmail.com"><img src="https://img.shields.io/badge/sayong4424@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 🛠 TECH & SKILLS 🛠
