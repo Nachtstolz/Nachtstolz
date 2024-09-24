@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌹 INTRODUCE MYSELF 🌹
-#### Hi, there!👋 I'm CSH with nickname 'Nachtstolz'.✨
+## 🌹 WHAT I DID 🌹
 
-#### I'm learner with various coding.💻
 
-#### There are still many shortcomings, but I'm going to use a 'Github' to organize what I've studied.🔥
+
+## 🏆 WHAT I CHALLENGE & MADE 🏆
+
+
 
 #### 👉 You can contact 👈
 
@@ -33,9 +34,11 @@ In the order of frequency (keep adding) :
 ### 💡 tech & tools : 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
+<!--
 ### 👀 GITHUB CONTRIBUTE 👀
 ![trophy](https://github-profile-trophy.vercel.app/?username=Nachtstolz&column=3&margin-w=15&margin-h=15&no-frame=true)
 
 ![Nachtstolz's github stats](https://github-readme-stats.vercel.app/api?username=Nachtstolz&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachtstolz&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+-->
